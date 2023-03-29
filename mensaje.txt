@@ -1,8 +1,8 @@
-hola mundo de piruleta
+hola mundo de caramelo
 adios venus
 
 linea3
 linea4
 
-linea15
-linea20
+lineaX
+lineaY
